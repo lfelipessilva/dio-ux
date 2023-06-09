@@ -6,7 +6,7 @@ Atividade 2 - Design System
 
 Usei um plugin chamado <i>propstar</i> para gerar automaticamente essa tabela com as variações de cada botão e do input.
 
-![Cores do Design System](https://raw.github.com/lfelipessilva/dio-ux/main/design_system/Collor_Palette.png)
+![Cores do Design System](https://raw.github.com/lfelipessilva/dio-ux/main/design_system/Color_Palette.png)
 
 ![Botões do Design System](https://raw.github.com/lfelipessilva/dio-ux/main/design_system/Buttons.png)
 
